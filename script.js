@@ -22,7 +22,7 @@ const projects = [
         tags: ["Docker", "ECS Fargate", "CloudFormation", "Bedrock", "Textract", "EventBridge"],
         image: "📄",
         github: null,
-        demo: "https://api.joyofpm.com"
+        demo: null
     }
 ];
 
